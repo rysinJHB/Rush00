@@ -5,10 +5,10 @@ void		rush0X(int	x, int	y)
 	int		b;
 
 	a	=	0;
-	while(a <	x)
+	while(a <	y)
 	{
 		b = 0;
-		while(b	<	y)
+		while(b	<	x)
 		{
 			ft_putchar('*');
 			b++;
